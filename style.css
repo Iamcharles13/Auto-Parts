@@ -149,6 +149,10 @@ ul.nav2 li{
     color: blue;
 }
 
+.block h1:hover{
+    color: blue;
+}
+
 .nav2 svg{
     transition: transform .2s ease;
 }
@@ -821,7 +825,7 @@ margin-left: 70px;
     margin-left: 30px;
 }
 
-.ground:hover{
+.cool .ground a:hover{
     color: rgb(234, 27, 37);
     text-decoration-color: rgb(234, 27, 37);;
 }
